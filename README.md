@@ -1,2 +1,28 @@
-# 27656b7a-mcp-servers--tools-prompt-lib
-200+ tested prompts for ChatGPT, Claude, and Gemini optimized for MCP Servers &amp; Tools tasks. Save hours researching the right prompts.
+# MCP Servers & Tools Prompt Library for AI Tools
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq7sL8v5gaUcVW5bucZb1W)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq7sL8v5gaUcVW5bucZb1W)
+- [Buy on Gumroad](https://aevornsell.gumroad.com/l/etfpq)
+- [Buy on Whop](https://whop.com/mcp-servers-tools-prompt-library-for-ai-tools)
+
